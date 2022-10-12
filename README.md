@@ -1,6 +1,6 @@
 # How to Change Photo Background?
 
-[![how to change photo background](redd.png)](https://github.com/tech-solve/how.to.change.photo.background)
+[![how to change photo background](redd.png)](https://icncomputer.com/how-to-change-photo-background/)
 
 
 
